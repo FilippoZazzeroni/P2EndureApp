@@ -1,0 +1,4 @@
+enum GeneralFormState {
+  EMPTY,
+  FILLED,
+}

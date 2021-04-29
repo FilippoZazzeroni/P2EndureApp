@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "P2Endure logo with subtitle.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "P2Endure logo with subtitle@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "P2Endure logo with subtitle@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
